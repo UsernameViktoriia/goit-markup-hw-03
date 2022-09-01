@@ -64,7 +64,7 @@ img {
     display: flex;
     margin-left: 93px;
 }
-.site-nav .item:not(:last-child) {
+.site-nav .item-nav:not(:last-child) {
     margin-right: 50px;
 }
 .site-nav a {
